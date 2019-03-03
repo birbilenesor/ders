@@ -1,0 +1,3 @@
+<?
+echo "deneme çarpma";
+?>
